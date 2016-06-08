@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:49.017440
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:57
 #+TITLE: 金剛祕密善門陀羅尼經
 #+PROPERTY: CBETA_ID T20n1138b
 #+PROPERTY: ID KR6j0355
