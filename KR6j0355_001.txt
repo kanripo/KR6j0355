@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:49.017440
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:57
 #+TITLE: 金剛祕密善門陀羅尼經
 #+PROPERTY: CBETA_ID T20n1138b
 #+PROPERTY: ID KR6j0355
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1138b
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0355_T_001-0583a> 
 #+PROPERTY: JUAN 1
 ¶
-
- 金剛祕密善門陀羅尼經¶
+金剛祕密善門陀羅尼經¶
 ¶
 失譯人名附東晉錄¶
 
@@ -34,7 +33,7 @@
 迹菩薩。善哉善哉善男子。汝今真是菩薩之¶
 人。能為眾生得安樂故。發如是問。我今亦為¶
 一切眾生。當說此善門陀羅尼。爾時密迹喜¶
-未曾有。惟願矜愍善分別之。於時世尊告大¶
+末曾有。惟願矜愍善分別之。於時世尊告大¶
 士言。諦聽諦聽善思念之。吾當為汝演暢其¶
 義。密迹言唯然受教。即說呪曰。¶
 
